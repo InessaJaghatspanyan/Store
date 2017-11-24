@@ -201,7 +201,7 @@ namespace Store.Data_Access.Repository
 
             int num = 0;
 
-            while (num <= 50)
+            while (num <= 50000)
             {
                 Product product = new Product
                 {
